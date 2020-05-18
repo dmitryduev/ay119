@@ -15,5 +15,5 @@ jupyter lab
 ## Deep learning
 
 - [Dima's tutorial on deep learning from Astroinformatics-2019](https://www.youtube.com/watch?v=xP0EmroyOFg&)
-and the corresponding [Jupyter notebook](https://github.com/dmitryduev/braai/blob/master/nb/braai_train.ipynb)!
+and the corresponding [Jupyter notebook](https://github.com/dmitryduev/braai/blob/master/nb/braai_train.ipynb)
 - [Assignment](deep_learning/rbp.ipynb)
